@@ -1,3 +1,4 @@
+- <img src="https://visitor-badge.laobi.icu/badge?page_id=Azure-OpenAI-integration-with-db" />
 # Azure-OpenAI-integration-with-db
 
 Welcome to Azure-OpenAI-integration-with-db! This project utilizes [Flask](https://flask.palletsprojects.com/) and [Azure OpenAI](https://azure.microsoft.com/en-us/services/cognitive-services/openai/) to provide an interactive query system.
